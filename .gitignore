@@ -1,5 +1,5 @@
-#to ignore any of your .prj / project file changes
-*.prj
+#to ignore any of your .prj / project file changes. to be added after you perform initial commit
+# *.prj
 
 .gradle
 
